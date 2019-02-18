@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>The Celebrity Game</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--links stylesheet-->
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <!--links celebrity javascript-->
+    <script src="celebrity.js"></script>
+</head>
+
+<body>
+    <!-- Navbar -->
+    <div class="topnav" id="myTopnav">
+        <a href="#" class="active">HOME</a>
+        <a href="#labinformation">LAB INFORMATION</a>
+        </a>
+    </div>
+
+    <!-- ACTUAL GAME -->
+    <div>
+        <\br></\br>
+        <h1>Lets Play....</h1>
+
+        <div id="form">
+            <form action="/action_page.php">
+
+                <!--eventually turns into What's my age?-->
+                <div id="enterName" class="enterName">
+                    <font color=white size=24><b>WHO AM I?</b></font>
+                </div>
+
+                <input type="text" id="userInput" /><br />
+                <input type="button" id="button" value="SUBMIT" /><br />
+                <!--displays image-->
+                <div id="displayImage" class="displayImage"></div>
+
+            </form>
+        </div>
+        <div id="count"></div>
+        <div id="score"></div>
+    </div>
+
+    <!-- LAB INFORMATION -->
+    <div class="container" id="labinformation">
+        <h1>Celebrity Game Javascript Instructions</h1>
+        <p>Create the Game.html HTML page that implements the game using JavaScript.
+
+        <p>a. The page must contain an image, a textbox, and a button to submit their guess.
+        <p>i. The image will change as the user progresses through the game.
+
+        <p>
+            b. Use JavaScript to implement the game and the interactive behavior of the page.
+        <p>
+            i. You will need at least 30 images of celebrities, which should be stored in an
+            images folder.
+
+        <p>
+            ii.Create an array to store JavaScript objects that represent a celebrity. The
+            JavaScript celebrity object will contain the name of the celebrity, the celebrity’s
+            birthdate, and the URL for the celebrity’s image file.
+
+        <p>
+            iii. The game involves 10 rounds where each round is worth 10 points and a final
+            round where the user can wager the points they earned.
+        <p>
+            iv. Each round involves using JavaScript to randomly choose a celebrity object from
+            the array, display the celebrity’s image using the information stored in the
+            celebrity object, allow the user to guess person’s name, and score their answer.
+            Once a celebrity is chosen from the array, it should be removed from the array
+            and not selected again.
+        <p>
+            v. After the first 10 rounds of the game, the game should display the user’s score
+            and allow them to wager the points they earned on one final question. The final
+            question will display a celebrity, but the user must now guess how old they are
+            and be within 2 years of their age. You must use JavaScript to calculate the
+            celebrity’s age based on their birthdate. If the user is correct, you will add the
+            points they wagered to their total; otherwise, you will subtract the wagered
+            points from their total.
+
+        <p>
+            c. Display a message when the game ends that contains the user’s score and allow them to
+            play the game again.
+        <p>
+            3. Also, you need to use CSS to style the page and make it look professional and attractive.
+        <p>
+            4. Remember to add a section to the labs.html page created in Lab 1 for this lab.
+        <p>
+            a. Include a description of what you learned, what elements you liked/disliked, and a link
+            to the page you created for Lab 3.
+</div>
+
+
+    <!-- Footer -->
+    <div ng-include src="'bottom.html'" class="ng-scope">
+        <div id="footer" class="ng-scope">
+            JOSEPH KIM ©2018 | JOSEPHKIM@TEMPLE.EDU
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html ng-app="SearchRestaurantAngular">
+<head>
+    <meta charset="utf-8" />
+    <title>Restaurant - Search</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="restaurant.css" rel="stylesheet" />
+
+    <!-- Angular version 1.5 -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
+
+    <!-- Angular script reference needed for routing -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular-route.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="SearchRestaurant.js"></script>
+    <script src="UpdateDeleteRestaurant.js"></script>
+    <script src="AddRestaurant.js"></script>
+</head>
+
+<body>
+    <div class="topnav" id="myTopnav">
+        <a href="Home.html">HOME</a>
+        <a href="AddRestaurant.html">ADD RESTAURANT</a>
+        <a href="UpdateDeleteRestaurant.html">UPDATE/DELETE RESTAURANT</a>
+        <a href="SearchRestaurant.html">SEARCH AND VIEW RESTAURANTS</a>
+    </div>
+
+    <br /><br />
+
+    <h1>Search for a restaurant</h1>
+    <div>
+        <div class="form" ng-controller="SearchRestaurantController">
+
+            <div class="rowContainer">
+                <div class="row">
+                    <label for="txtSearchName">Search by ID:</label>
+                    <input id="txtSearchName" type="text" placeholder="Restaurant ID" required />
+                </div>
+
+                <div class="row2">
+                    <label for="txtSearchLocation">Search by City, State:</label>
+                    <input id="txtSearchLocation" type="text" placeholder="Location" required />
+                </div>
+            </div>
+
+            <div class="rowContainer">
+                <div class="row">
+                    <label for="txtSearchRank">Search by Food Rating:</label>
+                    <input id="txtSearchRank" type="number" placeholder="Number between 1-5" required />
+                </div>
+
+                <div class="row2">
+                    <label for="txtSearchCuisine">Search by Cuisine:</label>
+                    <input id="txtSearchCuisine" type="text" placeholder="$, $$, $$$" required />
+                </div>
+            </div>
+
+            <br />
+
+            <div class="btn">
+                <div class="btnSearch">
+                    <input id="btnSearch" type="button" value="SEARCH" ng-click="searchRestaurant()" />
+                </div>
+            </div>
+
+            <br />
+
+            <div>
+                <div id="results">Results:</div>
+                <div id="searchResults"></div>
+            </div>
+
+        </div>
+    </div>
+
+    <!--footer-->
+    <div id="footer" class="ng-scope">
+        JOSEPH KIM | BRANDON TRAN | ©2018
+    </div><!--footer-->
+
+
+</body>
+</html>

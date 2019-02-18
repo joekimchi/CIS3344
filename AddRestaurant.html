@@ -1,0 +1,95 @@
+﻿<!DOCTYPE html>
+<html ng-app="AddRestaurantAngular">
+<head>
+    <meta charset="utf-8" />
+    <title>Restaurant - Add Restaurant</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="restaurant.css" rel="stylesheet" />
+
+    <!-- Angular version 1.5 -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
+
+    <!-- Angular script reference needed for routing -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular-route.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="AddRestaurant.js"></script>
+</head>
+
+<body>
+    <div class="topnav" id="myTopnav">
+        <a href="Home.html">HOME</a>
+        <a href="AddRestaurant.html">ADD RESTAURANT</a>
+        <a href="UpdateDeleteRestaurant.html">UPDATE/DELETE RESTAURANT</a>
+        <a href="SearchRestaurant.html">SEARCH AND VIEW RESTAURANTS</a>
+    </div>
+
+    <br /><br />
+
+    <h1>Adding Restaurants</h1>
+    <div>
+        <div class="form" ng-controller="AddRestaurantController">
+            <br />
+            <div class="rowContainer">
+                <div class="row">
+                    <label for="txtRestaurantName">Restaurant's Name:</label>
+                    <input id="txtRestaurantName" type="text" placeholder="Restaurant Name" required />
+                </div>
+
+                <div class="row2">
+                    <label for="txtAddress">Address:</label>
+                    <input id="txtAddress" type="text" placeholder="Address" required />
+                </div>
+            </div>
+
+            <div class="rowContainer">
+                <div class="row">
+                    <label for="txtLocation">Location (City, State):</label>
+                    <input id="txtLocation" type="text" placeholder="Location" required />
+                </div>
+
+                <div class="row2">
+                    <label for="txtPhoneNumber">Phone Number:</label>
+                    <input id="txtPhoneNumber" type="text" placeholder="267-255-2071" required />
+                </div>
+            </div>
+
+            <div class="rowContainer">
+                <div class="row">
+                    <label for="txtFoodRating">Food Rating:</label>
+                    <input id="txtFoodRating" type="number" placeholder="Number between 1-5" required />
+                </div>
+
+                <div class="row2">
+                    <label for="txtPriceRating">Price Rating:</label>
+                    <input id="txtPriceRating" type="text" placeholder="$, $$, $$$" required />
+                </div>
+            </div>
+
+            <div class="rowContainer">
+                <div class="row">
+                    <label for="txtCuisine">Cuisine Type:</label>
+                    <input id="txtCuisine" type="text" placeholder="Bar food, Diner" required />
+                </div>
+
+                <div class="row2">
+                    <label for="txtImageURL">Image URL:</label>
+                    <input id="txtImageURL" type="text" placeholder="Image URL" required />
+                </div>
+            </div>
+            <br />
+            <div class="btn">
+                <div class="btnAdd">
+                    <input id="btnAdd" type="button" value="SUBMIT" ng-click="addRestaurant()" />
+                </div>
+            </div>
+            <div id="successfailure"></div>
+        </div>
+    </div>
+
+    <!--footer-->
+    <div id="footer" class="ng-scope">
+        JOSEPH KIM | BRANDON TRAN | ©2018
+    </div><!--footer-->
+
+</body>
+</html>

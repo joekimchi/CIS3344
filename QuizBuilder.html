@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Builder</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="quizBuilder.js"></script>
+</head>
+<body>
+    <header>
+        <center><h1>THE QUIZ BUILDER</h1></center>
+    </header>
+
+    <br />
+    <br />
+
+    <div id="divQuizBuilder">
+
+        <!--user input question-->
+        Type in your question:
+        <input type="text" id="txtQuestion">
+        <br />
+        <br />
+        <!--dropdown box that will change the div depending which one is selected-->
+        <select id="selectQuestionType">
+            <option value=null>Select Question Type</option>
+            <option value="MultipleChoice">Multiple Choice</option>
+            <option value="TrueFalse">True/False</option>
+            <option value="text">Short Answer</option>
+        </select>
+        <br />
+        <!--the actual change of the div-->
+        <span id="dropdown"></span>
+        <br />
+        <br />
+        <!--points value entry-->
+        How many points is this question worth <input id="txtPointValue" size="4" />
+        <br />
+
+        <br />
+
+        <!--add button over save and take quiz-->
+        <input id="btnAddQuestion" class="button AddButton" type="button" value="ADD QUESTION"/>
+
+        <br>
+
+        <!--SAve quiz button and Take QUiz button-->
+        <input id="btnSaveQuiz" class="button" type="button" value="SAVE QUIZ" />
+        <input id="btnTakeQuiz" class="button" type="button" value="TAKE QUIZ" />
+    </div>
+
+    <!--footer-->
+    <div id="divQuizQuestions"></div>
+    <div id="footer" class="ng-scope">
+        JOSEPH KIM ©2018 | JOSEPHKIM@TEMPLE.EDU
+    </div><!--footer-->
+</body>
+</html>

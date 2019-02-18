@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JukeBox - A SoundCloud Client</title>
+    <link rel="stylesheet" href="jukebox.css" />
+</head>
+
+<body>
+    <header>
+        <center><h1>JUKEBOX</h1></center>
+        <center><h4>A SOUNDCLOUD CLIENT</h4></center>
+    </header>
+
+    <center><h2>You can search by entering an artist's name, album title, song, or genre</h2></center>
+    <center><h5>Refresh page to search for something new</h5></center>
+
+    <form id="myForm">
+        <input class="inputBox" placeholder="Artist Name, Album Title, Song Name, Genre" id="input" type="text" />
+        <div class="submitBtn"><input type="submit" value="SEARCH" class="button"/></div>
+    </form>
+
+    <br />
+
+    <center><div id="description"></div></center>
+
+    <br />
+
+    <center><img id="artwork"/></center>
+
+    <!--volume slider-->
+    <center>
+        <b>Volume:</b>
+        <input class="volumeStyle" id="vol-control" type="range" min="0" max="100" value="100" step="1" oninput="
+            SetVolume(this.value)" onchange="SetVolume(this.value)" />
+    </center>
+
+    <br />
+
+    <center>
+        <div class="wrapper">
+            <button id="playBtn" type="button" class="button">PLAY</button>
+            <button id="pauseBtn" type="button" class="button">PAUSE</button>
+            <button id="stopBtn" type="button" class="button">STOP</button>
+            <br />
+            <button id="rewindBtn" type="button" class="button">PREVIOUS</button>
+            <button id="forwardBtn" type="button" class="button">NEXT</button>
+        </div>
+    </center>
+
+    <br />
+    <br />
+
+    <!--footer-->
+    <div id="footer" class="ng-scope">
+        JOSEPH KIM ©2018 | JOSEPHKIM@TEMPLE.EDU
+    </div><!--footer-->
+
+    <script src="https://connect.soundcloud.com/sdk/sdk-3.1.2.js"></script>
+    <script src="jukebox.js"></script>
+</body>
+</html>

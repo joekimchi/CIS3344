@@ -1,0 +1,60 @@
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\WebApplication1\WebApplication1\obj\Debug\Responsive Webpage.csprojResolveAssemblyReference.cache
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Joseph Kim\Desktop\MY OWN CSS\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Joseph Kim\Desktop\MY OWN CSS\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joseph Kim\Desktop\MY OWN CSS\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joseph Kim\Desktop\MY OWN CSS\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joseph Kim\Desktop\MY OWN CSS\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joseph Kim\Desktop\MY OWN CSS\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joseph Kim\Desktop\MY OWN CSS\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joseph Kim\Desktop\MY OWN CSS\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joseph Kim\Desktop\MY OWN CSS\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joseph Kim\Desktop\MY OWN CSS\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Joseph Kim\Desktop\MY OWN CSS\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joseph Kim\Desktop\MY OWN CSS\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joseph Kim\Desktop\MY OWN CSS\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Joseph Kim\Desktop\MY OWN CSS\WebApplication1\bin\WebApplication1.dll
+C:\Users\Joseph Kim\Desktop\MY OWN CSS\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Joseph Kim\Desktop\MY OWN CSS\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joseph Kim\Desktop\MY OWN CSS\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joseph Kim\Desktop\MY OWN CSS\WebApplication1\obj\Debug\Responsive Webpage.csprojResolveAssemblyReference.cache
+C:\Users\Joseph Kim\Desktop\MY OWN CSS\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Joseph Kim\Desktop\MY OWN CSS\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Joseph Kim\Desktop\Lab 2 - Reponsive Web Page\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Joseph Kim\Desktop\Lab 2 - Reponsive Web Page\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joseph Kim\Desktop\Lab 2 - Reponsive Web Page\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joseph Kim\Desktop\Lab 2 - Reponsive Web Page\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joseph Kim\Desktop\Lab 2 - Reponsive Web Page\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joseph Kim\Desktop\Lab 2 - Reponsive Web Page\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joseph Kim\Desktop\Lab 2 - Reponsive Web Page\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joseph Kim\Desktop\Lab 2 - Reponsive Web Page\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joseph Kim\Desktop\Lab 2 - Reponsive Web Page\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joseph Kim\Desktop\Lab 2 - Reponsive Web Page\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Joseph Kim\Desktop\Lab 2 - Reponsive Web Page\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joseph Kim\Desktop\Lab 2 - Reponsive Web Page\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joseph Kim\Desktop\Lab 2 - Reponsive Web Page\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Joseph Kim\Desktop\Lab 2 - Reponsive Web Page\WebApplication1\bin\WebApplication1.dll
+C:\Users\Joseph Kim\Desktop\Lab 2 - Reponsive Web Page\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Joseph Kim\Desktop\Lab 2 - Reponsive Web Page\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joseph Kim\Desktop\Lab 2 - Reponsive Web Page\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joseph Kim\Desktop\Lab 2 - Reponsive Web Page\WebApplication1\obj\Debug\Responsive Webpage.csprojResolveAssemblyReference.cache
+C:\Users\Joseph Kim\Desktop\Lab 2 - Reponsive Web Page\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Joseph Kim\Desktop\Lab 2 - Reponsive Web Page\WebApplication1\obj\Debug\WebApplication1.pdb

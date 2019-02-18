@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>JOSEPH KIM - LAB</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="styles.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div ng-app="">
+        <!-- inside this div you can use Angular directives -->
+        <div ng-include src="'top.html'"> </div> <!-- will insert "top.html" code here -->
+
+        <div id="topnav">
+            <div id="pageTitle">
+                LABS
+            </div>
+            <div id="nav">
+                <a href="index.html">HOME</a>
+                <a href="labs.html">LABS</a>
+                <a href="biography.html">BIOGRAPHY</a>
+                <a href="portfolio.html">PORTFOLIO</a>
+
+            </div>
+            <span class="stopFloat"></span>
+        </div>
+        <div id="content">
+            <h1 align="center">Lab Page</h1>
+            <h2 align="center">Lab 1: HTML & CSS Home Page</h2>
+            <p> <strong>a) Describe your level of experience with HTML, CSS, Javascript, and any other client-side frameworks.</strong></p>
+
+            <p>
+                Coming into this class, I had very limited expierence with HTML, CSS, and Javascript. I used to do some Inspect-Element back
+                in my YouTube days to change the amount of subscribers I had to screenshot and troll my friends...only to realize that it goes
+                back to the actual amount after refreshing the page. I also did a lot of HTML over the summer, using tutorials online.
+            </p>
+
+            <p> <strong>b) Describe what advanced CSS techniques you employed in your style sheet.</strong></p>
+            <p>
+                For the body background, as well as header and footer, I used a color palette to determine colors that will look great together
+                to make the site as asthetically pleasing as possible. I also used the floating technique to have the navigation bar "float" over
+                the page when scrolling down.
+            </p>
+            <p> <strong>c) What did I like about this lab and what did I dislike?</strong></p>
+            <p>
+                I really dislike the amount of new Syntax that I had to memorize - I still reference public sources in order to write HTML.
+                I really liked how we were able to customize our site using CSS and implement it into HTML.
+            </p>
+            <hr />
+            <div ng-include src="'bottom.html'" class="ng-scope">
+                <div id="footer" class="ng-scope">
+                    JOSEPH KIM ©2018
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

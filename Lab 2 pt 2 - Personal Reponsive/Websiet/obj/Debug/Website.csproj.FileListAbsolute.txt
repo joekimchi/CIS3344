@@ -1,0 +1,60 @@
+C:\Users\Joseph Kim\Desktop\JosephKim Website\Websiet\bin\roslyn\csc.exe
+C:\Users\Joseph Kim\Desktop\JosephKim Website\Websiet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joseph Kim\Desktop\JosephKim Website\Websiet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joseph Kim\Desktop\JosephKim Website\Websiet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joseph Kim\Desktop\JosephKim Website\Websiet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joseph Kim\Desktop\JosephKim Website\Websiet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joseph Kim\Desktop\JosephKim Website\Websiet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joseph Kim\Desktop\JosephKim Website\Websiet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joseph Kim\Desktop\JosephKim Website\Websiet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joseph Kim\Desktop\JosephKim Website\Websiet\bin\roslyn\vbc.exe
+C:\Users\Joseph Kim\Desktop\JosephKim Website\Websiet\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joseph Kim\Desktop\JosephKim Website\Websiet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joseph Kim\Desktop\JosephKim Website\Websiet\bin\Websiet.dll.config
+C:\Users\Joseph Kim\Desktop\JosephKim Website\Websiet\bin\Websiet.dll
+C:\Users\Joseph Kim\Desktop\JosephKim Website\Websiet\bin\Websiet.pdb
+C:\Users\Joseph Kim\Desktop\JosephKim Website\Websiet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joseph Kim\Desktop\JosephKim Website\Websiet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joseph Kim\Desktop\JosephKim Website\Websiet\obj\Debug\Website.csprojResolveAssemblyReference.cache
+C:\Users\Joseph Kim\Desktop\JosephKim Website\Websiet\obj\Debug\Websiet.dll
+C:\Users\Joseph Kim\Desktop\JosephKim Website\Websiet\obj\Debug\Websiet.pdb
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Reponsive\Websiet\bin\roslyn\csc.exe
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Reponsive\Websiet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Reponsive\Websiet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Reponsive\Websiet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Reponsive\Websiet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Reponsive\Websiet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Reponsive\Websiet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Reponsive\Websiet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Reponsive\Websiet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Reponsive\Websiet\bin\roslyn\vbc.exe
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Reponsive\Websiet\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Reponsive\Websiet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Reponsive\Websiet\bin\Websiet.dll.config
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Reponsive\Websiet\bin\Websiet.dll
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Reponsive\Websiet\bin\Websiet.pdb
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Reponsive\Websiet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Reponsive\Websiet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Reponsive\Websiet\obj\Debug\Website.csprojResolveAssemblyReference.cache
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Reponsive\Websiet\obj\Debug\Websiet.dll
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Reponsive\Websiet\obj\Debug\Websiet.pdb
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Personal Reponsive\Websiet\bin\roslyn\csc.exe
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Personal Reponsive\Websiet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Personal Reponsive\Websiet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Personal Reponsive\Websiet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Personal Reponsive\Websiet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Personal Reponsive\Websiet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Personal Reponsive\Websiet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Personal Reponsive\Websiet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Personal Reponsive\Websiet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Personal Reponsive\Websiet\bin\roslyn\vbc.exe
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Personal Reponsive\Websiet\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Personal Reponsive\Websiet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Personal Reponsive\Websiet\bin\Websiet.dll.config
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Personal Reponsive\Websiet\bin\Websiet.dll
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Personal Reponsive\Websiet\bin\Websiet.pdb
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Personal Reponsive\Websiet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Personal Reponsive\Websiet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Personal Reponsive\Websiet\obj\Debug\Website.csprojResolveAssemblyReference.cache
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Personal Reponsive\Websiet\obj\Debug\Websiet.dll
+C:\Users\Joseph Kim\Desktop\Lab 2 pt 2 - Personal Reponsive\Websiet\obj\Debug\Websiet.pdb
